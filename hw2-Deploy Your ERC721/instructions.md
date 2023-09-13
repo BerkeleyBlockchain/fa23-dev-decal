@@ -225,7 +225,7 @@ If everything went well, you should see your new contract's address printed to y
 
 Submit the contract address that you deployed to to this form:
 
-https://forms.gle/9bcgWQeBcqFJpiPg9
+https://forms.gle/oUkNdhWH6RLsNneV6
 
 Congratulations! You've now deployed your (potentially) first smart contract! In the next class, we'll go further in depth into Solidity so that you'll be ready to develop your own code :) 
 
