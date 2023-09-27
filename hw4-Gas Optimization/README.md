@@ -35,6 +35,10 @@ Optimize the following functions by utilizing the gas optimization tactics that 
 - NestedIf.sol
 - PackVariables.sol
 
+# Submission
+
+Submit your ```SRC``` file on Gradescope under "Homework 4".
+
 # References
 
 1. https://betterprogramming.pub/how-to-write-smart-contracts-that-optimize-gas-spent-on-ethereum-30b5e9c5db85?gi=227bef2ca134
