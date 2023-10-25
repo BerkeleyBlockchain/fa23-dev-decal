@@ -1,8 +1,8 @@
-#Cosm Wasm
+# Cosm Wasm
 
 Welcome to hw7, you will be using Rust with smart contracts, finally
 
-##Installation
+## Installation
 ```bash
 rustup target add wasm32-unknown-unknown
 ```
