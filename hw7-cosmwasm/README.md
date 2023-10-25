@@ -22,3 +22,5 @@ cargo install cosmwasm-check
 ```bash
 cosmwasm-check --version
 ```
+
+[installation instructions](https://book.cosmwasm.com/setting-up-env.html)
