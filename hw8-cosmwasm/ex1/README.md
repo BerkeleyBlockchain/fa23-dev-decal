@@ -1,4 +1,4 @@
-### Lesson 1: An Initial Dive into Entry Points and Instantiate
+### Ex 1: A Gentle Intro to CosmWasm
 
 ## Overview
 CosmWasm is a smart contract platform built for the Cosmos ecosystem. It allows you to write high performance and secure smart contracts in a multitude of languages which compile to 
