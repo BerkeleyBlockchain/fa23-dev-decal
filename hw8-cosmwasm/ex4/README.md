@@ -19,4 +19,5 @@ DepsMut
 ## Exercise
 1. In order, add four parameters named deps, _env, info, and msg.
 2. Add the types DepsMut, Env, MessageInfo, and InstantiateMsg.
+
 The _env argument is prepended with an _ to tell the compiler not to complain about it being an unused variable, which you'll see as we progress through building up this function.
