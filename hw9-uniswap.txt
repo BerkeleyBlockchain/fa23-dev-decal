@@ -1,10 +1,10 @@
- hw9-uniswap
+ HW9-UNISWAP
 
 Goal: Implement a single swap contract and provide liquidity to a pool
 
 Instructions:
 
-1) Follow the here:
+1) Follow the setup instructions here:
 https://docs.uniswap.org/contracts/v3/guides/local-environment
 
 2) Before running "npx hardhat test --network localhost", make sure to do the follwing:
